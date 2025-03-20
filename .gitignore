@@ -7,3 +7,8 @@ yarn-debug.log
 yarn-error.log 
 .env.production
 VERCEL_DEPLOYMENT.md
+.env.local
+.env.vercel
+.vercel.env.example
+public/audio/fallback.mp3
+public/audio/silence.mp3
